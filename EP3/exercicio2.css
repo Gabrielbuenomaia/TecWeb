@@ -1,0 +1,28 @@
+p{font-size:12px;
+font-family:arial;
+}
+#titulo{font-size:23px;
+border-bottom:1px solid;
+font-family:arial;
+border-color:rgb(74,126,187);
+text-align:center;
+margin-top:-20px;
+}
+#tudo{
+border:1px solid black;
+ }
+#pri{
+	color:rgb(74,126,187);
+}
+#seg{font-weight:bold;
+	color:rgb(0,176,80);
+}
+#ter{font-style:italic;
+color:orange;}
+#qua{text-decoration:underline;
+color:red;}
+#qui,#sex,#set,#oi{color:rgb(128,100,162);
+font-family:times new roman;
+}
+li{list-style-type:none;}
+p{padding-left:1em;}
