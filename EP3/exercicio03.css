@@ -1,0 +1,6 @@
+table {	border-spacing: 0px; border-collapse: collapse;}
+
+		.titulo1, .vermelha, .azul {font-family: Arial; font-weight: bold; text-align: center;}
+		.alunos {font-family: Arial; text-align: center}
+		.vermelha {color: #ff0000; font-style: italic;}
+		.azul {color: #00ff00; font-style: italic;}
